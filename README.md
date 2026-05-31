@@ -1,41 +1,28 @@
-# Flashcard Quiz App 🎴
+# Flashcard Quiz App - CodeAlpha Task 1
 
-**CodeAlpha Android Development Internship - Task 1**
+Android Flashcard Quiz App built for CodeAlpha Internship Task 1 using AIDE on mobile.
 
-## 📱 About
-A simple Android Flashcard Quiz application built using AIDE on mobile. Users can create flashcards with questions & answers, practice by flipping cards, and manage their study deck.
-
-## ✨ Features
-- Add new flashcards with Question + Answer
-- View flashcards one by one
-- Show/Hide answer with button click
+## Features
+- Add new flashcards with questions and answers
+- Edit existing flashcards
 - Delete flashcards
-- Clean Material Design UI
+- Show/Hide answer toggle
+- Next/Previous navigation between cards
+- Clean and simple UI
 
-## 🛠️ Built With
-- **IDE**: AIDE - Android IDE
-- **Language**: Java
-- **Platform**: Android
-- **Min SDK**: 21 (Android 5.0 Lollipop)
+## Tech Stack
+- Android
+- Java
+- WebView
+- HTML/CSS/JavaScript
+- AIDE (Android IDE)
 
-## 📥 Download & Install
-1. Download `FlashcardQuiz-debug.apk` from this repository
-2. Enable "Install from Unknown Sources" in Android Settings
-3. Install the APK and start learning!
+## How to Run
+1. Open project in AIDE
+2. Run `assembleDebug` command
+3. Install `app-debug.apk` on Android device
+4. 
 
-## 📸 Screenshots
-| Main Screen | Add Card | Answer Shown |
-| --- | --- | --- |
-| *Add screenshot* | *Add screenshot* | *Add screenshot* |
-
-## 🚀 How to Run Source Code
-1. Clone this repo or download ZIP
-2. Open project in AIDE or Android Studio
-3. Build → Run on device/emulator
-
-## 👨‍💻 Developer
-**Sandeep Parupalli**  
+## Developed By
+Sandeep Parupalli
 CodeAlpha Internship 2026
-
----
-⭐ If you like this project, give it a star!
